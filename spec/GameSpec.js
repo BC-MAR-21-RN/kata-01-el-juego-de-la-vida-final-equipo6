@@ -1,4 +1,5 @@
 describe('Game of Life', function () {
+  let Game = require('../src/Game');
   let board;
 
   beforeEach(function () {
