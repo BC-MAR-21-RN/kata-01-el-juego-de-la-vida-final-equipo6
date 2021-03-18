@@ -106,3 +106,5 @@ Game.prototype.nextGeneration = function () {
     return arr.slice()
   })
 }
+
+module.exports = Game;
